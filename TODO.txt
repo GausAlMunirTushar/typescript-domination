@@ -3,3 +3,5 @@
 
 - Type Inference
 - Type Alias
+- Union
+- Intersection
